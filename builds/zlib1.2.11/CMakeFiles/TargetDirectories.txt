@@ -1,0 +1,13 @@
+D:/project/builds/zlib1.2.11/CMakeFiles/minigzip64.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/zlib.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/zlibstatic.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/example.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/minigzip.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/example64.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/rebuild_cache.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/test.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/edit_cache.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/list_install_components.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/install/local.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/install.dir
+D:/project/builds/zlib1.2.11/CMakeFiles/install/strip.dir
